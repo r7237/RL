@@ -1,9 +1,8 @@
-nclude <stdio.h>
- 
+#include <stdio.h>
+ #include<conio.h>
 void main()
 {
     int i, num, odd_sum = 0, even_sum = 0;
- 
     printf("Enter the value of num\n");
     scanf("%d", &num);
     for (i = 1; i <= num; i++)

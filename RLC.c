@@ -1,5 +1,8 @@
 #include<stdio.h>
-void main(){
-    switch(printf("Hello world")){
+#include<conio.h>
+void main()
+{
+    switch(printf("Hello world"))\
+    {
     }
 }
